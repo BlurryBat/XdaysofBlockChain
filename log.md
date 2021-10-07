@@ -6,3 +6,7 @@
 ## Day 002
 
 * Hello world example : https://github.com/solana-labs/example-helloworld/blob/master/README.md
+
+## Day 003
+
+* Solana cluster : https://docs.solana.com/cluster/overview
