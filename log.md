@@ -10,3 +10,7 @@
 ## Day 003
 
 * Solana cluster : https://docs.solana.com/cluster/overview
+
+## Day 004
+
+* Proof of Work, Proof of Stake and Proof of History.
